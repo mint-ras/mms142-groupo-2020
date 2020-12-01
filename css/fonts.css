@@ -1,0 +1,16 @@
+.mt {
+  font-family: 'Noto Serif', serif;
+}
+
+.st {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.bt {
+  font-family: "Baybayin";
+}
+
+@font-face {
+  font-family: "Baybayin";
+  src: url('matatas_one.otf');
+}
