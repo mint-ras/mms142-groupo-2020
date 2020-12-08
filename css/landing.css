@@ -1,7 +1,7 @@
 #landing-text {
   color: #fff !important;
   font-size: 20rem;
-  -webkit-user-select: none; /* Safari */        
+  -webkit-user-select: none; /* Safari */
   -moz-user-select: none; /* Firefox */
   -ms-user-select: none; /* IE10+/Edge */
   user-select: none; /* Standard */
@@ -17,7 +17,7 @@
   color: #f2f2f2 !important;
   font-size: 2rem;
   font-style: italic;
-  -webkit-user-select: none; /* Safari */        
+  -webkit-user-select: none; /* Safari */
   -moz-user-select: none; /* Firefox */
   -ms-user-select: none; /* IE10+/Edge */
   user-select: none; /* Standard */
