@@ -1,2 +1,1 @@
-# wanportu
-Nani?
+# Disruptive Technologies
