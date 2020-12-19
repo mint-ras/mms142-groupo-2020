@@ -61,7 +61,7 @@ Retrieved on December 12, 2020 from https://bernardmarr.com/default.asp?contentI
 >Marr, B. “The Amazing Ways Companies Use Virtual Reality For Business Success.”
 Retrieved on December 12, 2020 from https://bernardmarr.com/default.asp?contentID=1157
 
-###Gaming
+### Gaming
 Christensen, C., Raynor, M., & McDonald, R. (2020). What Is Disruptive Innovation?. Harvard Business Review. Retrieved December 2020, from https...
 
 >Harris, M. (2020). Gravity Sketch 1.5, Oculus Medium and other Incredible tools that let you paint, model and sculpt in VR. Digital Arts.
@@ -79,7 +79,7 @@ Retrieved December 2020, from https://swagsoft.com.sg/blog/vr-history...
 >What Is Disruptive Innovation?. Harvard Business Review. (2020).
 Retrieved December 2020, from https://hbr.org/2...
 
-###Education
+### Education
 >(2020). Retrieved December 2020, from https://www.blvrd.com/experiences/.
 
 >Education in Second Life. En.wikipedia.org. (2020). Retrieved December 2020, from https://en.wikipedia.org/wiki/Education_in_Second_Life.
