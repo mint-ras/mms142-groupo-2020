@@ -1,5 +1,5 @@
 # Disruptive Technologies: AR/VR
-##About
+## About
 A website showcasing the Disruptive nature of Augmented Reality and Virtual Reality Technologies.
 
 
@@ -7,7 +7,7 @@ A website showcasing the Disruptive nature of Augmented Reality and Virtual Real
 
 
 
-#Copyright <2020> <mint-ras>
+# Copyright <2020> <mint-ras>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Disruptive Technologies: AR/VR site"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -47,8 +47,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
-##References
-###Extended Reality
+## References
+### Extended Reality
 “Augmented Reality.”
 >Retrieved on December 12, 2020 from https://www.interaction-design.org/literature/topics/augmented-reality
 
@@ -94,7 +94,7 @@ Retrieved December 2020, from https://hbr.org/2...
 
 >Virtual Reality in Education – ClassVR. Classvr.com. (2020). Retrieved December 2020, from https://www.classvr.com/virtual-reality-in-education/.
 
-###Commerce
+### Commerce
 >Commerce Education in India - Contents, Importance, Challenges, Future Scope | CollegeDekho. (2020, May 13). CollegeDekho.com. https://www.collegedekho.com/articles/commerce-education-in-india/
 
 >Goel, R. (2007). E-commerce. New Age International.
@@ -107,20 +107,20 @@ Retrieved December 2020, from https://hbr.org/2...
 
 >Chin-Chin Suarez. (2020, September 16). A Complete Guide to E-Commerce Success. Spiralytics Inc; Spiralytics Inc. https://www.spiralytics.com/blog/e-commerce/
 
-###Social Media
+### Social Media
 Romano A. (2019). HOW ARE WILL START TO INFLUENCE THE SOCIAL MEDIA TRENDS OF TOMORROW. Retrieved December 15, 2020, from: https://altadigital.com/blog/ar-social-media-trends
 
 Arcangel A. (2018). Snapchat Filters: How Do They Work?. Retrieved December 15, 2020, from: https://dev.to/aubreyarcangel/snapchat-filters-how-do-theywork-4c83
 
 Griffin T. (2020). How Augmented Reality Can Boost Social Media Marketing. Retrieved December 15, 2020, from: https://www.forbes.com/sites/forbestechcouncil/2020/01/08/how-augmented-reality-can-boost-social-media-marketing/?sh=5b9107e03604
 
-###Medicine
+### Medicine
 >Cobos, S. (2017). AR/VR innovations in surgery and healthcare. Retrieved December, 2020: https://3dcoil.grupopremo.com/blog/arvr-innovations-surgery-healthcare...
 
 >Nichols, G. (2018). 3 unexpected ways you'll soon find AR/VR in healthcare. Retrieved December, 2020: https://www.zdnet.com/article/3-unexpected-ways-youll-soon-find-arvr-in-healthcare...
 
 
-#MISC
+# MISC
 >S, V. (2019, January 18). Use Cases of Augmented Reality in Education and Training. Retrieved from https://rubygarage.org/blog/augmented-reality-in-education-and-training...
 
 >ViewSonic. (2019, September 26). 6 Benefits and 5 Examples of Augmented Reality in Education. Retrieved from https://www.viewsonic.com/library/education/6-benefits-and-5-examples-of-augmented-reality-in-education...
